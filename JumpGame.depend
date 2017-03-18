@@ -1,0 +1,8 @@
+# depslib dependency file v1.0
+1455511254 source:d:\gouravprograms\gitprojects\jumpgame\main.c
+	<stdio.h>
+	<stdlib.h>
+	<conio.h>
+	<unistd.h>
+	<windows.h>
+
